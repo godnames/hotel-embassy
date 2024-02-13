@@ -12264,3 +12264,6 @@ fieldset:disabled .btn {
     text-align: center;
     padding-bottom: 20px;
 }
+.testimonial__area-item-dots{
+    bottom: 35px !important;
+}
