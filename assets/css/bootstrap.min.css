@@ -12268,3 +12268,7 @@ fieldset:disabled .btn {
     bottom: 35px !important;
     left:500px !important;
 }
+.house-rule li::marker{
+    color: #b89146;
+    font-size: 14px;    
+}
